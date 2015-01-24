@@ -1,0 +1,26 @@
+body {
+  font-size: 26px;
+}
+
+input.cmd-input {
+  width: 600px;
+  padding: 8px;
+  font-size: 26px;
+  vertical-align: middle;
+}
+
+.btn {
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid #777;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.caption {
+  display: none;
+}
+
+p.output {
+  font-size: 36px;
+}
