@@ -1,7 +1,15 @@
 
 function calculate(command) {
   // Your code in here!
+  return 12;
 }
+
+
+
+
+
+
+
 
 function gatherInputAndCalculate() {
   var cmd, result;
